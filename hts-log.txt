@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 01 Aug 2024 17:17:14 at http://html.kodesolution https://html.kodesolution.com/2016/nextevent-html/demo/index-mp-layout5.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://html.kodesolution https://html.kodesolution.com/2016/nextevent-html/demo/index-mp-layout5.html -O1 "C:\Users\ycode\Desktop\n\https___html.kodesolution.com_2016_nextevent-html_demo_index-mp-layout5.html" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:17:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link html.kodesolution/robots.txt (from primary/primary)
+17:17:15	Warning: 	Retry after error -5 (Unable to get server's address: Hôte inconnu. ) at link html.kodesolution/ (from primary/primary)
+17:18:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link html.kodesolution/ (from primary/primary)
+17:19:49	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/shortcode-datetime-datepicker.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-mp-layout5.html)
+17:19:49	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/shortcode-datetime-timepicker.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-mp-layout5.html)
+17:19:49	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/shortcode-datetime-datetimepicker.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-mp-layout5.html)
+17:19:49	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/shortcode-datetime-datepair.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-mp-layout5.html)
+17:21:40	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link html.kodesolution/ (from primary/primary)
+17:21:40	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/css/owl.video.play.png (from https://html.kodesolution.com/2016/nextevent-html/demo/css/css-plugin-collections.css)
+17:21:40	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/css/fonts/flexslider-icon.eot (from https://html.kodesolution.com/2016/nextevent-html/demo/css/css-plugin-collections.css)
+17:21:40	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/css/fonts/flexslider-icon.eot? (from https://html.kodesolution.com/2016/nextevent-html/demo/css/css-plugin-collections.css)
+17:21:40	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/css/fonts/flexslider-icon.woff (from https://html.kodesolution.com/2016/nextevent-html/demo/css/css-plugin-collections.css)
+17:21:40	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/css/fonts/flexslider-icon.ttf (from https://html.kodesolution.com/2016/nextevent-html/demo/css/css-plugin-collections.css)
+17:21:40	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/css/fonts/flexslider-icon.svg (from https://html.kodesolution.com/2016/nextevent-html/demo/css/css-plugin-collections.css)
+17:21:40	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/css/bxslider/images/bx_loader.gif (from https://html.kodesolution.com/2016/nextevent-html/demo/css/css-plugin-collections.css)
+17:21:40	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/css/bxslider/images/arrow-left.png (from https://html.kodesolution.com/2016/nextevent-html/demo/css/css-plugin-collections.css)
+17:21:40	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/css/bxslider/images/arrow-right.png (from https://html.kodesolution.com/2016/nextevent-html/demo/css/css-plugin-collections.css)
+17:21:49	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/images/close.png (from https://html.kodesolution.com/2016/nextevent-html/demo/css/style-main.css)
+17:21:49	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/css/images/countdown/shop.jpg (from https://html.kodesolution.com/2016/nextevent-html/demo/css/style-main.css)
+17:21:54	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/features-home-revslider.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-boxed-mp-layout1.html)
+17:21:54	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/features-home-bg-image-slider.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-boxed-mp-layout1.html)
+17:21:54	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/features-home-owl-fullwidth-carousel.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-boxed-mp-layout1.html)
+17:21:54	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/features-home-parallax-bg.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-boxed-mp-layout1.html)
+17:21:54	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/features-home-video-bg.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-boxed-mp-layout1.html)
+17:21:54	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/page-register-form.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-boxed-mp-layout1.html)
+17:21:54	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/page-faq.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-boxed-mp-layout1.html)
+17:21:54	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/page-404.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-boxed-mp-layout1.html)
+17:21:54	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/page-coming-soon.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-boxed-mp-layout1.html)
+17:21:54	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/page-under-construction.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-boxed-mp-layout1.html)
+17:21:54	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/page-contact.html (from https://html.kodesolution.com/2016/nextevent-html/demo/index-boxed-mp-layout1.html)
+17:21:54	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/images/slider/layerslider/blank.gif (from https://html.kodesolution.com/2016/nextevent-html/demo/index-home-variation-layerslider.html)
+17:21:57	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/ms/blank.gif (from https://html.kodesolution.com/2016/nextevent-html/demo/index-home-variation-master-slider.html)
+17:21:57	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/images/construction/shop-single2.jpg (from https://html.kodesolution.com/2016/nextevent-html/demo/shop-product-details.html)
+17:21:57	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/{{link}} (from https://html.kodesolution.com/2016/nextevent-html/demo/shortcode-flickr-feed.html)
+17:21:57	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/{{image_m}} (from https://html.kodesolution.com/2016/nextevent-html/demo/shortcode-flickr-feed.html)
+17:21:59	Error: 	"Bad Request" (400) at link https://html.kodesolution.com/2016/nextevent-html/demo/%url% (from https://html.kodesolution.com/2016/nextevent-html/demo/shortcode-modal-lightbox.html)
+17:21:59	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/'+item.el.attr('data-source')+' (from https://html.kodesolution.com/2016/nextevent-html/demo/shortcode-modal-lightbox.html)
+17:21:59	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/images/logo-square-black.png (from https://html.kodesolution.com/2016/nextevent-html/demo/shortcode-widgets.html)
+17:21:59	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/images/logo-square.png (from https://html.kodesolution.com/2016/nextevent-html/demo/shortcode-widgets.html)
+17:21:59	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2016/nextevent-html/demo/images/bg-flower6.png (from https://html.kodesolution.com/2016/nextevent-html/demo/css/style-main-dark.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 45 seconds : 849 links scanned, 808 files written (20013598 bytes overall) [7598220 bytes received at 26660 bytes/sec], 16475387 bytes transferred using HTTP compression in 679 files, ratio 20%, 105.8 requests per connection
+(38 errors, 2 warnings, 0 messages)
